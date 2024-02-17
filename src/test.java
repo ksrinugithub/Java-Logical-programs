@@ -6,6 +6,6 @@ public class test {
 		// TODO Auto-generated method stub
 		Function<Integer, Integer> f = i -> i * i;
 		System.out.println("the squre of 3:" + f.apply(3));
-
+System.out.println("hhhhhh");
 	}
 }
